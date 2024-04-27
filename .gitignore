@@ -1,0 +1,7 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+MPU6050
+mbed-os
